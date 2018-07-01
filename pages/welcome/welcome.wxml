@@ -1,0 +1,7 @@
+<view class='container'>
+<image class='user-avatar' src='/images/movie.png'></image>
+<text class='user-name'>欢迎来到电影时光</text>
+<view class='moto-container' bindtap='onTap'>
+    <text class='moto'>开启时光之旅</text>
+</view>
+</view>
